@@ -1,2 +1,1 @@
-# fuugo
-gooyu
+KS_coders and fuugo
